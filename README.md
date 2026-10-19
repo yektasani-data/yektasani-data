@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Yekta Sani 👋
 
-<!--
-**yektasani-data/yektasani-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics and Applications Student at K. N. Toosi University of Technology
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst passionate about turning data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+* 🎓 Studying Mathematics and Applications
+* 🐍 Learning and practicing Python for data analysis
+* 🗄️ Developing my SQL skills
+* 📈 Exploring data visualization with Power BI
+* 🎾 Worked on a collaborative Tennis Data Analysis project
+
+### Technical Skills
+
+* Programming: Python
+* Data Analysis: Pandas, NumPy, Polars
+* Databases: SQL
+* Visualization: Power BI, Matplotlib
+* Tools: Git, GitHub, Jupyter Notebook
+
+### Featured Project
+
+Tennis Data Analysis
+
+A collaborative project analyzing tennis match data collected from SofaScore, covering February–March 2024.
+
+* Data preprocessing and cleaning
+* Analysis of match duration, tournaments, and player statistics
+* Exploratory data analysis using Python
+
+🔗 [View the project on GitHub](https://github.com/yektasani-data/tennis_data_analysis)
+
+### Connect with Me
+
+* [LinkedIn](https://www.linkedin.com/in/yekta-sani-864b343a9/)
+
